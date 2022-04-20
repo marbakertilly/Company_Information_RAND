@@ -1,0 +1,28 @@
+{
+  "id": "b736b8cc-6807-4c09-a4b6-11c3bb769a04",
+  "name": "Company_Information",
+  "publisher": "Baker Tilly",
+  "version": "1.0.0.1",
+  "runtime": "8.1",
+  "target": "Cloud",
+  "platform": "19.0.36528.36625",
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "dependencies": [
+    {
+      "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+      "name": "Base Application",
+      "version": "19.5.36567.38429",
+      "publisher": "Microsoft"
+    }
+  ],
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 99000
+    }
+  ]
+}
